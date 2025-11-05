@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 
 # Data files
-*.csv
+# *.csv
 *.xlsx
 *.json
 
