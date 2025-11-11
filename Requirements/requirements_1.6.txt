@@ -1,4 +1,6 @@
+pandas == 1.5.1
+numpy == 1.23.4
 spacy == 3.4.3
-networkx == 2.8.8
 matplotlib == 3.5.3
+networkx == 2.8.8
 scipy == 1.9.3
